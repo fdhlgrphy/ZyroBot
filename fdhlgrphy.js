@@ -132,7 +132,7 @@ module.exports = fdhl = async (fdhl, mek, _welkom) => {
 			fdhl.sendMessage(from, pesan, tipe, { quoted: { key: { fromMe: false, participant: `${target}`, ...(from ? { remoteJid: from } : {}) }, message: { conversation: `${target2}` } } })
 		}
         
-/┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅〔 BUTTON BENTAR BANG 〕┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅//
+//┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅〔 BUTTON BENTAR BANG 〕┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅//
 
         const sendButton = async (from, context, fortext, but, mek) => {
             buttonMessages = {
