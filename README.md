@@ -20,6 +20,8 @@ masih beta om ntar dikit² w kembangin ye hehe
 
   ◪ Hazn
 
+  ◪ Franky404
+ 
   ◪ pebri
 
   ◪ ZeeoneOfc
