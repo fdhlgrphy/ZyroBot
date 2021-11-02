@@ -15,8 +15,8 @@ require('./fdhlgrphy.js')
 nocache('./fdhlgrphy.js', module => console.log(`${module} has been updated!`))
 
 const starts = async (fdhl = new WAConnection()) => {
-         fdhl.version = [2, 2123, 8]
-         fdhl.browserDescription = ['FdhlGrphy', 'Safari', '3.0']
+         fdhl.version = [2, 2143, 8]
+         fdhl.browserDescription = ['FdhlGrphy', 'BotWa', '3.0']
          fdhl.logger.level = 'warn'
          console.log(banner)
          fdhl.on('qr', () => {
