@@ -1,4 +1,4 @@
-# BaseSelf
+# ChikoBot × ZyroBot
 
 ## INGPO
 
